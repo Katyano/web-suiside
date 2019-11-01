@@ -1,14 +1,49 @@
 .container {
-    max-width: 1250px;
+    width: 1250px;
     margin: 0 auto;
 }
 .fon {
-    margin-top: -10px;
+    height: 3027px;
+    background: url(img/gracenok.png) center no-repeat;
 }
 header{
     height: 650px;
 }
 .bukva{
-    margin-top: -655px;
+    margin-top: -10px;
     margin-left: 160px;
+}
+.menu{
+margin-left: 1068px;
+margin-top: -80px;
+}
+.header{
+    margin-top: 50px;
+    margin-left: 350px;
+}
+.gg{
+    border: 2px solid white;
+    width: 174px;
+    height: 56px;
+    border-radius: 3px;
+    float: right;
+    margin-right: -35px;
+    margin-top: 20px;
+}
+.oblako{
+    float: right;
+    margin-right: 180px;
+    margin-top: 40px;
+}
+.ggg{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.vava{
+margin-top: 500px;
+margin-left: 163px;
+font-family:  'Lucida Sans Regular';
+font-size: 40px;
+color: grey;
 }
